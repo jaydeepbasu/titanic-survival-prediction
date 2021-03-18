@@ -29,6 +29,7 @@ The project was developed using python 3.8.3 with the following packages.
 ## Files
 - /notebooks/Titanic_Survival_Prediction_LogisticRegression.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling (using Logistic Regression) and inference.
 - /notebooks/Titanic_Survival_Prediction_DecisionTrees_and_RandomForest.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling (using Decision Trees and Random Forest) and inference.
+- /notebooks/Titanic_Survival_Prediction_Linear_and_NonLinear_SVM.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling (using Linear and Non-Linear SVM) and inference.
 - /data/train.csv : The source data.
 - /data/test.csv : Without the final outcome or target variable which needs to be predicted.
 
